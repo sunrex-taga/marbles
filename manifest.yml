@@ -1,7 +1,11 @@
 ---
 applications:
 - disk_quota: 1024M
+<<<<<<< HEAD
   name: srx-marbles3
+=======
+  name: srx-editest
+>>>>>>> bcbe077658cfa23b91dec1d283e4610d5ebde3e7
   command: "node app.js"
   path: "."
   instances: 1

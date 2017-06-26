@@ -1,7 +1,7 @@
 ---
 applications:
 - disk_quota: 1024M
-  name: srx-marbles2
+  name: srx-marbles3
   command: "node app.js"
   path: "."
   instances: 1
